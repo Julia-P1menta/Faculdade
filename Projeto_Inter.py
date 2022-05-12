@@ -42,4 +42,4 @@ def decimalToOctadecimal(num):
     print(num % 8, end=' ')
 if __name__ == '__main__':
     decimalToOctadecimal(num)
-    print(":Ocatadecimal")
+    print(":Octadecimal")
